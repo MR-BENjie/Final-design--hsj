@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6e65a40-4349-4a38-8708-156f897d8b84" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rlcard-master/rlcard-showdown/server/tournament/tournament.py" beforeDir="false" afterPath="$PROJECT_DIR$/../rlcard-master/rlcard-showdown/server/tournament/tournament.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rlcard-master/rlcard/models/red_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/../rlcard-master/rlcard/models/red_10.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="UML Sequence" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="25jNptagiCaykIOThddn1MwpH8e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultPlantUmlFileTemplate" value="UML Sequence" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.evaluate_red_10">
+    <configuration name="evaluate_red_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Red-10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/evaluate_red_10.py" />
+      <option name="PARAMETERS" value="--dangerous=R_D_checkpoints/dangerous_weights_1.ckpt --relation=R_D_checkpoints/relation_weights_1.ckpt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generate_eval_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Red-10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generate_eval_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="picture" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Red-10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/language/python" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/language/python/picture.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="simulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Red-10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/douzero/evaluation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/douzero/evaluation/simulation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_RD" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Red-10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_RD.py" />
+      <option name="PARAMETERS" value="--actor_device_cpu --training_device cpu --num_actors=1" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.evaluate_red_10" />
+      <item itemvalue="Python.generate_eval_data" />
+      <item itemvalue="Python.picture" />
+      <item itemvalue="Python.simulation" />
+      <item itemvalue="Python.train_RD" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.evaluate_red_10" />
+        <item itemvalue="Python.simulation" />
+        <item itemvalue="Python.picture" />
+        <item itemvalue="Python.generate_eval_data" />
+        <item itemvalue="Python.train_RD" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6e65a40-4349-4a38-8708-156f897d8b84" name="Default Changelist" comment="" />
+      <created>1646036722056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646036722056</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="65" y="231" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1647261722005">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="65" y="231" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.920@0.0.1440.920" timestamp="1647261722005" />
+    <state x="521" y="350" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1646653416165">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="521" y="350" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1440.920@0.0.1440.920" timestamp="1646653416165" />
+    <state x="0" y="214" key="#xdebugger.XInspectDialog" timestamp="1646830568724">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="0" y="214" key="#xdebugger.XInspectDialog/0.0.1440.920@0.0.1440.920" timestamp="1646830568724" />
+    <state x="501" y="201" key="FileChooserDialogImpl" timestamp="1646903506249">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="501" y="201" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1646903506249" />
+    <state width="1397" height="332" key="GridCell.Tab.0.bottom" timestamp="1647265984174">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="332" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1647265984174" />
+    <state width="1397" height="332" key="GridCell.Tab.0.center" timestamp="1647265984174">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="332" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1647265984174" />
+    <state width="1397" height="332" key="GridCell.Tab.0.left" timestamp="1647265984174">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="332" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1647265984174" />
+    <state width="1397" height="332" key="GridCell.Tab.0.right" timestamp="1647265984174">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="332" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1647265984174" />
+    <state width="1397" height="307" key="GridCell.Tab.1.bottom" timestamp="1647265984172">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="307" key="GridCell.Tab.1.bottom/0.0.1440.920@0.0.1440.920" timestamp="1647265984172" />
+    <state width="1397" height="307" key="GridCell.Tab.1.center" timestamp="1647265984172">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="307" key="GridCell.Tab.1.center/0.0.1440.920@0.0.1440.920" timestamp="1647265984172" />
+    <state width="1397" height="307" key="GridCell.Tab.1.left" timestamp="1647265984172">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="307" key="GridCell.Tab.1.left/0.0.1440.920@0.0.1440.920" timestamp="1647265984172" />
+    <state width="1397" height="307" key="GridCell.Tab.1.right" timestamp="1647265984172">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="307" key="GridCell.Tab.1.right/0.0.1440.920@0.0.1440.920" timestamp="1647265984172" />
+    <state x="301" y="204" key="IDE.errors.dialog" timestamp="1646143283903">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="301" y="204" key="IDE.errors.dialog/0.0.1440.920@0.0.1440.920" timestamp="1646143283903" />
+    <state x="222" y="105" key="SettingsEditor" timestamp="1646904655280">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="222" y="105" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1646904655280" />
+    <state x="442" y="202" width="576" height="524" key="StructurePopup" timestamp="1646904209982">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="442" y="202" width="576" height="524" key="StructurePopup/0.0.1440.920@0.0.1440.920" timestamp="1646904209982" />
+    <state width="727" height="467" key="XDebugger.FullValuePopup" timestamp="1647161225228">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="727" height="467" key="XDebugger.FullValuePopup/0.0.1440.920@0.0.1440.920" timestamp="1647161225228" />
+    <state x="528" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1646654024831">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="528" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.920@0.0.1440.920" timestamp="1646654024831" />
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1646830815818">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1646830815818" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/language/python/picture.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="relation_score" />
+        <watch expression="dangerous_score" />
+        <watch expression="model_number" />
+        <watch expression="player_id" />
+        <watch expression="env.env.game.played_colors" />
+        <watch expression="env.env.game.state" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

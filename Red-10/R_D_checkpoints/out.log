@@ -1,0 +1,5 @@
+Saving logs data to douzero_checkpoints/douzero/logs.csv
+Saving logs' fields to douzero_checkpoints/douzero/fields.csv
+Saving logs data to douzero_checkpoints/douzero/logs.csv
+Saving logs' fields to douzero_checkpoints/douzero/fields.csv
+Updated log fields: ['_tick', '_time', 'frames', 'loss_relation', 'loss_dangerous']
